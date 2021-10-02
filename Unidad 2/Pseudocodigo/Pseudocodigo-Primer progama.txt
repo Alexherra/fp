@@ -7,28 +7,28 @@
 Algoritmo Imprimir-Calificaciones;
 VAR
 
-INT Calificacion1;
-INT Calificacion2;
-INT Calificaicon3;
-INT Calificaicon4;
-INT Calificacion5; 
+    INT Calificacion1;
+    INT Calificacion2;
+    INT Calificaicon3;
+    INT Calificaicon4;
+    INT Calificacion5; 
 
 
 Array Calificaciones;
-Calificaciones ->[Calificacion1, Calificacion2, Calificacion3, Calificacion4, Calificacicion5];
-INT Calificaciones;
-Calificaiones -> Calificacion1, Calificacion2, Calificaion3, Calificacion4, Calificacion5;
+    Calificaciones ->[Calificacion1, Calificacion2, Calificacion3,          Calificacion4, Calificacicion5];
+    INT Calificaciones;
+    Calificaiones -> Calificacion1, Calificacion2, Calificaion3, Calificacion4, Calificacion5;
 
 Inicio
-Escribir("Escribir las Calificaciones");
-Leer("Calificacion1");
-Leer("Calificacion2");
-Leer("Calificacion3");
-Leer("Calificacion4");
-Leer("Calificacion5");
-Escribir (Calificaciones);
+    Escribir("Escribir las Calificaciones");
+    Leer("Calificacion1");
+    Leer("Calificacion2");
+    Leer("Calificacion3");
+    Leer("Calificacion4");
+    Leer("Calificacion5");
+    Escribir (Calificaciones);
 
 IF 
 IF Calificaciones
-print (Calificaciones)
+    print (Calificaciones)
 FIN
