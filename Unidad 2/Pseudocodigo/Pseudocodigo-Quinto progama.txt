@@ -5,18 +5,18 @@
 ### **Ingenieria en TICS**
 
 VAR
-INT Numero1;
-INT Numero2;
+    INT Numero1;
+    INT Numero2;
 
 INICIO
-ESCRIBIR("Colocar los 2 numeros");
-ESCRIBIR(Numero1);
-ESCRIBIR(Numero2);
+    ESCRIBIR("Colocar los 2 numeros");
+    LEER(Numero1);
+    LEER(Numero2);
 
 IF
 IF Numero1 > Numero2
-print (Numero1);
+    print (Numero1);
 IF NUmero2 < Numero1
-print (Numero2);
+    print (Numero2);
 
 FIN
