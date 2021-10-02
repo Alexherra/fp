@@ -1,0 +1,22 @@
+# Pseucodigo 5
+## Programa que pide dos numeros e imprime el mayor
+### Alejandro Herrera Ramos
+### **ITPA**
+### **Ingenieria en TICS**
+
+VAR
+INT Numero1;
+INT Numero2;
+
+INICIO
+ESCRIBIR("Colocar los 2 numeros");
+ESCRIBIR(Numero1);
+ESCRIBIR(Numero2);
+
+IF
+IF Numero1 > Numero2
+print (Numero1);
+IF NUmero2 < Numero1
+print (Numero2);
+
+FIN

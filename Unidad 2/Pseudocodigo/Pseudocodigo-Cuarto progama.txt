@@ -1,0 +1,27 @@
+# Pseucodigo 4
+## Programa que te pida nombre, y apellidos por separado, ademas de imprimirlos en un renglon
+### Alejandro Herrera Ramos
+### **ITPA**
+### **Ingenieria en TICS**
+
+VAR
+CARACTER(Nombre);
+CARACTER(Apellidos);
+
+Array Nombre-Apellido
+NombreCompleto -> [Nombre, Apellido];
+Caracter NmobreCompleto;
+NombreCompleto -> Nombre, Apellidos;
+
+INICIO
+ESCRIBIR ("Escribir nombre");
+LEER(Nombre);
+ESCRIBIR ("Escribir apellidos");
+LEER (Apellidos);
+
+IF
+IF Escribir
+print (Escribir);
+print (NombreCompleto);
+
+FIN

@@ -1,0 +1,30 @@
+# Pseucodigo 2
+## Programa que promedia 5 calificaciones
+### Alejandro Herrera Ramos
+### **ITPA**
+### **Ingenieria en TICS**
+
+Algoritmo Promedio-Calificaiones;
+VAR
+INT Calificacion1;
+INT Calificacion2;
+INT Calificacion3;
+INT Calificacion4;
+INT Calificacion5;
+
+Array Calificaciones;
+Calificaicones ->[Calificaicon1, Calificacion2, Calificacion3, Calificacion4, Calificacion5];
+INT Calificaciones
+Calificaciones -> Calificacion1, Calificaicon2, Calificacion3, Calificacion4, Calificacion5;
+
+INICIO
+ESCRIBIR ("Escribir las calificaciones")
+LEER("Calificacion1");
+LEER("Calificacion2");
+LEER("Calificacion3");
+LEER("Calificacion4");
+LEER("Calificacion5");
+Resultado = Calificaciones / 5;
+Escribir(resultado);
+
+FIN
