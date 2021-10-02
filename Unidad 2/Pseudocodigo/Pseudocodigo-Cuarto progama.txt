@@ -5,23 +5,24 @@
 ### **Ingenieria en TICS**
 
 VAR
-CARACTER(Nombre);
-CARACTER(Apellidos);
+    CARACTER(Nombre);
+    CARACTER(Apellidos);
 
 Array Nombre-Apellido
-NombreCompleto -> [Nombre, Apellido];
-Caracter NmobreCompleto;
-NombreCompleto -> Nombre, Apellidos;
+    NombreCompleto -> [Nombre, Apellido];
+    Caracter NmobreCompleto;
+    NombreCompleto -> Nombre, Apellidos;
 
 INICIO
-ESCRIBIR ("Escribir nombre");
-LEER(Nombre);
-ESCRIBIR ("Escribir apellidos");
-LEER (Apellidos);
+    ESCRIBIR ("Escribir nombre");
+    LEER(Nombre);
+    ESCRIBIR ("Escribir apellidos");
+    LEER (Apellidos);
+    Escribir(NombreCompleto);
 
 IF
 IF Escribir
-print (Escribir);
-print (NombreCompleto);
+    print (Escribir);
+    print (NombreCompleto);
 
 FIN
