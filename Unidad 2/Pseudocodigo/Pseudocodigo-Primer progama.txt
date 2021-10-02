@@ -1,4 +1,4 @@
-# Pseucodigo 1
+# Pseudocodigo 1
 ## Programa que imprime colificasiones en un renglon
 ### Alejandro 
 ### **ITPA**
