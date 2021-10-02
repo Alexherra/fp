@@ -1,0 +1,34 @@
+# Pseucodigo 1
+## Programa que imprime colificasiones en un renglon
+### Alejandro 
+### **ITPA**
+### **Ingenieria en TICS**
+
+Algoritmo Imprimir-Calificaciones;
+VAR
+
+INT Calificacione1;
+INT Calificacione2;
+INT Calificaicone3;
+INT Calificaicone4;
+INT Calificacione5; 
+
+
+Array Calificaciones;
+Calificaciones ->[Calificacion1, Calificacion2, Calificacion3, Calificacion4, Calificacicion5];
+INT Calificaciones;
+Calificaiones -> Calificacion1, Calificacion2, Calificaion3, Calificacion4, Calificacion5;
+
+Inicio
+Escribir("Escribir las Calificaciones");
+Leer("Calificacion1");
+Leer("Calificacion2");
+Leer("Calificacion3");
+Leer("Calificacion4");
+Leer("Calificacion5");
+Escribir (Calificaciones);
+
+IF 
+IF Calificaciones
+print (Calificaciones)
+FIN
