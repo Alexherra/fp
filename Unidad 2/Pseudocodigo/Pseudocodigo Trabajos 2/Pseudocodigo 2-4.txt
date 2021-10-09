@@ -1,0 +1,42 @@
+//Pseudocodigo 2-4
+/*Alejandro Herrera 
+ITPA
+Ingenieria en TICS
+*/
+
+/* Programa que pide calificaciones y que muestre si aprobo o no */
+
+Algoritmo Calificaciones;
+
+VAR
+
+	CARACTER (Nombre);
+	CARACTER (Apellido);
+	INT (Calificacion1);
+	INT (Calificacion2);
+	INT (Calificacion3);
+	INT (Calificacion4);
+
+INICIO
+
+	ESCRIBIR ("Poner nombre del alumno");
+		LEER (Nombre);
+	ESCRIBIR ("Poner apellido del aumno");
+		LEER (Apellido);
+	ESCRIBIR ("Pedir Calificacion1");
+		LEER (Calificacion1);
+	ESCRIBIR ("Pedir Calidicacion2");
+		LEER (Calificacion2);
+	ESCRIBIR ("Pedir Calificacion3");
+		LEER (Calificacion3);
+	ESCRIBIR ("Pedir Calificacion4")
+		LEER (Calificacion4);
+
+IF
+
+	IF (Calificacion1 + Calificacion2 + Calificacion3 + Calificacion4 / 4) < 7; 
+		Escribir (Apellido, Nombre, "Reprobo");
+	IF (Calificacion1 + Calificacion2 + Calificacion3 + Calificacion4 / 4) > 7;
+		Escribir (Apellido, Nombre, "Aprobo");
+
+FIN

@@ -1,0 +1,37 @@
+//Pseudocodigo 2-2
+/*Alejandro Herrera 
+ITPA
+Ingenieria en TICS
+*/
+
+/* Programa que te da 5 opciones de peliculas y al momento de seleccionar una te imprima el nombre de la pelicula */
+
+Algoritmo ImprimePelicula;
+
+VAR
+
+	CARACTER Pelicula1 = (Spiderman);
+	CARACTER Pelicula2 = (Avengers);
+	CARACTER Pelicula3 = (Iron Man);
+	CARACTER Pelicula4 = (Capitan America);
+	CARACTER Pelicula5 = (Thor);
+
+INICO 
+
+	ESCRIBIR ("Seleccione Primer pelicula");
+		LEER (Pelicula1);
+		ESCRIBIR (Pelicula1);
+	ESCRIBIR ("Seleccione Segunda Pelicula");
+		LEER (Pelicula2);
+		ESCRIBIR (Pelicula2);
+	ESCRIBIR ("Seleccione Tercer Pelicula");
+		LEER (Pelicula3);
+		ESCRIBIR (Pelicula3);
+	ESCRIBIR ("Seleccione Cuarta Pelicula");
+		LEER (Pelicula4);
+		ESCRIBIR (Pelicula4);
+	ESCRIBIR ("Seleccione Quinta Pelicula");
+		LEER (Pelicula5);
+		ESCRIBIR (Pelicula5);
+
+FIN

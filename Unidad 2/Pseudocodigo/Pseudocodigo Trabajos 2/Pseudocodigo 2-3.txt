@@ -1,0 +1,24 @@
+//Pseudocodigo 2-3
+/*Alejandro Herrera 
+ITPA
+Ingenieria en TICS
+*/
+
+/* Programa que te pida un numero y se imprima su nombre la cantidad de veces del numero */
+
+Algoritmo ImprimeNumeroVecesDelMismo;
+
+VAR
+
+	INT (Numero);
+	CARACTER (Nombre)
+
+INICIO
+
+	ESCRIBIR ("Poner Numero");
+	LEER (Numero);
+	
+IF 
+	IF ESCRIBIR (Numero)*(Nombre);
+
+FIN

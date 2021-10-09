@@ -1,0 +1,49 @@
+//Pseudocodigo 2-5
+/*Alejandro Herrera 
+ITPA
+Ingenieria en TICS
+*/
+
+/* Programa que pide nombre y edad, e imprime la persona mas grande */
+
+Algoritmo PersonaMasGrande;
+
+VAR
+
+	CARACTER (Nombre1);
+	INT (Edad1);
+	CARACTER (Nombre2);
+	INT (Edad2);
+	CARACTER (Nombre3);
+	INT (Edad3);
+
+INICIO
+
+	ESCRIBIR ("Primer Nombre");
+	LEER (Nombre1);
+	ESCRIBIR ("Primer Edad");
+	LEER (Edad1);
+	ESCRIBIR ("Segundo Nombre");
+	LEER (Edad2);
+	ESCRIBIR ("Segunda Edad");
+	LEER (Edad2);
+	ESCRIBIR ("Tercer Nombre");
+	LEER (Edad3);
+	ESCRIBIR ("Tercera Edad");
+	LEER (Edad3);
+
+IF 
+	IF Si (Edad1) > (Edad2);
+		IMPRIMIR (Edad1);
+	Si no 
+		IMPRIMIR (Edad2); 	
+	IF Si (Edad3) > (Edad1);
+		IMPRIMIR (Edad3);
+	Si no 
+		IMPRIMIR (Edad1);
+	IF Si (Edad2) > (Edad3;
+		IMPRIMIR (Edad2);
+	Si no 
+		IMPRIMIR (Edad3); 
+
+FIN

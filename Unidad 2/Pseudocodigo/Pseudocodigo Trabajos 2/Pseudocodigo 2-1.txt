@@ -1,0 +1,35 @@
+//Pseudocodigo 2-1
+/*Alejandro Herrera 
+ITPA
+Ingenieria en TICS
+*/
+
+/* Programa que pide 3 numeros e imprime el mayor */
+
+AlgoritmoImprimeNumeroMayor;
+
+VAR
+	INT Numero1;
+	INT Numero2:
+	INT Numero3;
+
+INICO 
+	ESCRIBIR (Primer numero);
+	ESCRIBIR (Segundo numero);
+	ESCRIBIR (Tercer numero);
+
+IF
+	Si (Numero1) > (Numero2)
+		IMPRIMIR (Numero1);
+	Si no
+		IMPRIMIR (Numero2);
+	Si (Numero1) > (Numero3)
+		IMPRIMIR (Numero1);
+	Si no
+		IMPRIMIR (Numero3);
+	Si (Numero2) > (Numero3)
+		IMPRIMIR (Numero2);
+	Si no
+		IMPRIMIR (Numero3);
+
+Fin
