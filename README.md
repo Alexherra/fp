@@ -50,3 +50,9 @@ Es un sistema de control de versiones distribuido de código abierto. El control
 **Operadores:** Es un elemento que indica el tipo de operacion que se la va a aplicar a uno o mas datos.
 
 **Constructores:** Es un metodo especial que se ejecuta en el momento que se crea un objeto de la clase (New). Su mision es reservar memoria e inicializar las variables miembro de la clase.
+## Unidad 3
+**Clases:** Dentro de la programacion orientada a objetos, las clases son un pilar fundamental. Dicho de otro modo, una clase es la declaracion de un tipo de objeto. Las clases son similares a los tipos abstractos de datos y equivalen a modelos que descubren como se construyen ciertos tipo de objetos.
+**Objeto:** Es una unidad de un programa informatico que tiene un estado y un comportamiento. Es decir, tiene una serie de datos almacenados y tareas que realiza con estos datos en tiempo de ejecucion.
+    *Carro: seria el caso donde se describe la marca del carro, color, calateristicas, acciones que tiene que realizar y sus metodos basaddos en las acciones que hace.
+    *Silla: En este caso seria la caracteristicas que tiene, como color, medidas, tipo de material con el que se fabrico etc, y la accion que hace como, el soportar peso.
+    Laptop: Esta es algo mas compleja, ya siendo las especificaciones que tiene de forma interna, como memoria, procesador, etc. y por el exterior comom colo, tamaño etc. Y respecto a las acciones son como el procesar informacion.
