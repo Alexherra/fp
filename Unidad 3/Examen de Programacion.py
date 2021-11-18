@@ -1,4 +1,4 @@
-#Programa que guarde a todos los integrantes del grupo como objetos
+#Programa que guarde a los integrantes del grupo como objetos
 
 '''Crear una clase'''
 class Alumno():
