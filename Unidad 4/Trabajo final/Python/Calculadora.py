@@ -12,6 +12,7 @@ while opcion:
 		print ("2 resta")
 		print ("3 multiplicacion")
 		print ("4 division")
+		print ("5 para Finalizar")
 		print("")
 
 		opcion1 =float(input("Ingrese aqui la opcion a realizar"))
@@ -41,12 +42,10 @@ while opcion:
 				print ("El resultado de la division es =", division1)
 			elif numero2>0:
 				print ("El resultado de la division es =", division1)
-
-
-		print("")	
-		print("**Finalizado**")
-		print(" ")
-
+				
+		elif opcion==5:
+			print (" ")
+			break;
+			
 else:
-	print(" ")
-	print("Finalizado")
+	print("El programa a Finalizado")
