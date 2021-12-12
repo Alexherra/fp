@@ -2,7 +2,7 @@ Algoritmo MedidaDeTiempo
 	Definir kilometros Como Entero
 	Definir  velocidad Como Entero
 	
-	Escribir "--Programa que estima timepo de llegada--"
+	Escribir "--Programa que estima tiempo de llegada--"
 	Escribir "Cuantos kilometros va a viajar"
 	Leer kilometros
 	Escribir "Con que velocidad va a realizar el recorrido"
